@@ -12,13 +12,13 @@ To put this insights into practice, fork this repository and create a TODO issue
 
 ## List of Content
 
-1. [General checklist ✔](#1-general-checklist)
-2. [Resume checklist ✔](#2-resume-checklist)
-3. [Resume under a microscope 🔬](#3-resume-under-a-microscope)
-4. [LinkedIn profile checklist ✔](#4-linkedin-profile-checklist)
-5. [GitHub profile checklist ✔](#5-github-profile-checklist)
-6. [Tools 🛠](#6-tools)
-7. [Vocabulary 📕](#7-terms)
+1. [General checklist](#1-general-checklist)
+2. [Resume checklist](#2-resume-checklist)
+3. [Resume under a microscope](#3-resume-under-a-microscope)
+4. [LinkedIn profile checklist](#4-linkedin-profile-checklist)
+5. [GitHub profile checklist](#5-github-profile-checklist)
+6. [Tools](#6-tools)
+7. [Vocabulary](#7-terms)
 
 ---
 

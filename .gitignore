@@ -1,0 +1,4 @@
+# Common
+.DS_Store
+.env.local
+.idea/

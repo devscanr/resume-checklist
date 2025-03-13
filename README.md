@@ -409,7 +409,7 @@ and as result helping users find releval information.
 ## Next steps
 
 Now that you understand why and how to update your resume and social accounts, we've prepared an actionable TODO list for you. 
-[Fork this repository](/fork), create a TODO issue from the provided template, and start optimizing your profiles right away!
+[Fork this repository](https://github.com/devscanr/resume-checklist/fork), create a TODO issue from the provided template, and start optimizing your profiles right away!
 
 ## License
 

@@ -12,17 +12,17 @@ To put this insights into practice, fork this repository and create a TODO issue
 
 ## List of Content
 
-1. [General checklist](#1-general-checklist)
-2. [Resume checklist](#2-resume-checklist)
+1. [General checklist ✔](#1-general-checklist)
+2. [Resume checklist ✔](#2-resume-checklist)
 3. [Resume under a microscope 🔬](#3-resume-under-a-microscope)
-4. [LinkedIn profile checklist](#4-linkedin-profile-checklist)
-5. [GitHub profile checklist](#5-github-profile-checklist)
-6. [Tools](#6-tools)
-7. [Terms](#7-terms)
+4. [LinkedIn profile checklist ✔](#4-linkedin-profile-checklist)
+5. [GitHub profile checklist ✔](#5-github-profile-checklist)
+6. [Tools 🛠](#6-tools)
+7. [Vocabulary 📕](#7-terms)
 
 ---
 
-## 1. General checklist
+## 1. General checklist ✔
 
 General recommendations for resumes and professional network profiles.
 
@@ -114,7 +114,7 @@ Senior Frontend Developer | Mentoring Teams While Driving Innovation
 Senior Frontend Developer | Delivering Pixel-Perfect, Responsive Solutions
 ```
 
-## 2. Resume checklist
+## 2. Resume checklist ✔
 
 ### 1️⃣ Contact information. Full name. Photo.
 
@@ -268,8 +268,8 @@ works better than several mediocre ones. Your resume will be compared with your 
 If recruiters find contradictions, you have done yourself a disservice by following the
 recommendations to create a "unique resume for each vacancy."
 
-## 4. LinkedIn profile checklist
-
+## 4. LinkedIn profile checklist ✔
+ 
 ### 1️⃣ Contact information. Full name. Photo
 
 Follow the recommendations from the [General checklist](#1-general-checklist) section.
@@ -334,7 +334,7 @@ with such evidence of competence to another candidate. In addition, all these ac
 of you as a "Continuous Learning" expert, and this skill is consistently included in the TOP-5 most
 in-demand cross-job skills.
 
-## 5. GitHub profile checklist
+## 5. GitHub profile checklist ✔
 
 ### 1️⃣ Contact information. Full name. Avatar
 
@@ -386,11 +386,11 @@ Follows LinkedIn's profile design rules, see the [corresponding checklist](#4-li
 More on this topic:
 https://github.com/abhisheknaiidu/awesome-github-profile-readme
 
-## 6. Tools
+## 6. Tools 🛠
 
 - [Resume builder with ATS optimization](https://www.jobscan.co/resume-builder)
 
-## 7. Terms
+## 7. Vocabulary 📕
 
 **ATS** (Applicant Tracking System) is software used by recruiters when working with candidates.
 Your data gets stored in this system when you submit applications or when recruiters discover your

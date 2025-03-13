@@ -16,13 +16,13 @@ enable issues and create a TODO task with a predefined list of actions:
 
 ## List of Content
 
-1. [General checklist](#1-general-checklist)
-2. [Resume checklist](#2-resume-checklist)
-3. [Resume under a microscope](#3-resume-under-a-microscope)
-4. [LinkedIn profile checklist](#4-linkedin-profile-checklist)
-5. [GitHub profile checklist](#5-github-profile-checklist)
-6. [Tools](#6-tools)
-7. [Vocabulary](#7-terms)
+1. [General checklist](#1-general-checklist-)
+2. [Resume checklist](#2-resume-checklist-)
+3. [Resume under a microscope](#3-resume-under-a-microscope-)
+4. [LinkedIn profile checklist](#4-linkedin-profile-checklist-)
+5. [GitHub profile checklist](#5-github-profile-checklist-)
+6. [Tools](#6-tools-)
+7. [Vocabulary](#7-vocabulary-)
 
 ---
 
@@ -31,7 +31,7 @@ enable issues and create a TODO task with a predefined list of actions:
 General recommendations for resumes and professional network profiles.
 
 It's critical to understand the role of ATS in the job search.
-If you never heard about "ATS", read this [short note](#7-terms)
+If you never heard about "ATS", read this [short note](#7-vocabulary-)
 
 ### 1️⃣ Contact Information
 
@@ -85,7 +85,7 @@ Transliteration between profiles should remain consistent.
 
 The title (e.g., Product Engineer) on your resume and profiles must align
 with the **position you're applying for**.
-This field is crucial for talent searches and filtering within [ATS systems](#7-terms).
+This field is crucial for talent searches and filtering within [ATS systems](#7-vocabulary-).
 
 A common mistake is spending mere minutes on crafting a title, assuming it's self-evident. However,
 this field deserves careful consideration. Your title should reflect your desired rather than
@@ -96,7 +96,7 @@ sense to humans but will negatively impact search rankings because text-based se
 prioritize exact matches.
 As a result, your resume could go unnoticed.
 
-When working on title, we recommend using a [SEO](#7-terms) approach. Search engine guidelines
+When working on title, we recommend using a [SEO](#7-vocabulary-) approach. Search engine guidelines
 for a title typically recommend staying within 50–80 characters.
 The beginning of the line carries the most weight.
 Keep in mind that you don't know where your title might get truncated or shortened in an ATS,
@@ -122,7 +122,7 @@ Senior Frontend Developer | Delivering Pixel-Perfect, Responsive Solutions
 
 ### 1️⃣ Contact information. Full name. Photo.
 
-Follow the guidens from the [General checklist](#1-general-checklist) section.
+Follow the guidens from the [General checklist](#1-general-checklist-) section.
 
 ### 2️⃣ Readability
 
@@ -276,11 +276,11 @@ recommendations to create a "unique resume for each vacancy."
  
 ### 1️⃣ Contact information. Full name. Photo
 
-Follow the recommendations from the [General checklist](#1-general-checklist) section.
+Follow the recommendations from the [General checklist](#1-general-checklist-) section.
 
 ### 2️⃣ Title, desired position
 
-Follow the recommendations from the [General checklist](#1-general-checklist) section.
+Follow the recommendations from the [General checklist](#1-general-checklist-) section.
 
 LinkedIn has a special block
 for listing "Job Titles" options, which can be opened by the blue "Open To" button in the page
@@ -294,7 +294,7 @@ indicate only one of them.
 
 ### 3️⃣ About yourself (main text), Skills
 
-Follow the recommendations from the [Resume under a microscope](#3-resume-under-a-microscope) section.
+Follow the recommendations from the [Resume under a microscope](#3-resume-under-a-microscope-) section.
 
 A LinkedIn description can be longer and more personalized than a resume. The latter is a dry
 description
@@ -308,7 +308,7 @@ In addition, the first skills will naturally collect more reactions (endorsement
 
 ### 4️⃣ Work experience, Education
 
-Follow the recommendations from the section [Resume under a microscope](#3-resume-under-a-microscope).
+Follow the recommendations from the section [Resume under a microscope](#3-resume-under-a-microscope-).
 
 ### 5️⃣ Custom URL
 
@@ -342,11 +342,11 @@ in-demand cross-job skills.
 
 ### 1️⃣ Contact information. Full name. Avatar
 
-Follow the recommendations in the [General checklist](#1-general-checklist) section.
+Follow the recommendations in the [General checklist](#1-general-checklist-) section.
 
 ### 2️⃣ Brief description (bio)
 
-Follow the recommendations in the [Resume under a microscope](#3-resume-under-a-microscope) section. 
+Follow the recommendations in the [Resume under a microscope](#3-resume-under-a-microscope-) section. 
 
 This field can hold an even shorter summary of your resume or outline your professional goals. 
 Since the profile isn’t as formal as a resume/CV, there aren’t strict guidelines here. Still, 
@@ -385,7 +385,7 @@ in hiring, the more the recruiter and employer know about you, the better.
 
 If you are motivated and have an above average GitHub profile, we recommend adding
 [a README profile](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme).
-Follows LinkedIn's profile design rules, see the [corresponding checklist](#4-linkedin-profile-checklist).
+Follows LinkedIn's profile design rules, see the [corresponding checklist](#4-linkedin-profile-checklist-).
 
 More on this topic:
 https://github.com/abhisheknaiidu/awesome-github-profile-readme

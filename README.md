@@ -392,12 +392,10 @@ https://github.com/abhisheknaiidu/awesome-github-profile-readme
 
 ## 7. Vocabulary 📕
 
-**ATS** (Applicant Tracking System) is software used by recruiters when working with candidates.
+**ATS** (Applicant Tracking System) is a software used by recruiters when working with candidates.
 Your data gets stored in this system when you submit applications or when recruiters discover your
-public profiles.
-In situations where the volume of resumes outweighs available jobs (which happens frequently),
-recruiters implement stringent filters to streamline their workflow.
-As a result, only a fraction of applicants are reviewed by actual recruiters.
+public profiles. In situations where the volume of resumes outweighs available jobs (which happens frequently),
+recruiters implement stringent filters to streamline their workflow. As a result, only a fraction of applicants are reviewed by actual recruiters.
 If your resume can't be parsed or fails to meet filter criteria, it’s automatically archived.
 [Read more about ATS here](https://www.linkedin.com/pulse/guide-formatting-your-resume-atshr-ai-systems-alexander-hinojosa/).
 

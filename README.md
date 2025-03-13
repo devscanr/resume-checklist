@@ -1,4 +1,4 @@
-<p style="text-align: center">
+<p align="center">
   <b>English</b>&nbsp;&nbsp;&nbsp;&nbsp;<a href="ru.md">Русский</a>
 </p>
 
@@ -10,8 +10,8 @@ As engineers speaking to fellow engineers, our goal isn't just to show you the s
 Below, you'll find a guidance on how to structure your resume and optimize your profiles on career and professional networks such as LinkedIn and GitHub.
 
 By following these simple steps, your profiles and resumes will make a much stronger impression on recruiters and employers. 
-To put this insights into practice, fork this repository and create a TODO issue with a predefined list of actions:
-
+To put this insights into practice, fork this repository, 
+enable issues and create a TODO task with a predefined list of actions:
 <img src="assets/todo.gif" width="640px"/>
 
 ## List of Content

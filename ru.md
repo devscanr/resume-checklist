@@ -1,4 +1,4 @@
-<p style="text-align: center">
+<p align="center">
   <a href="/README.md">English</a>&nbsp;&nbsp;&nbsp;&nbsp;<b>Русский</b>
 </p>
 

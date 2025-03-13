@@ -12,7 +12,7 @@ Don’t stop after reading — put these insights into practice.
 Clone this repository and create a TODO issue with a predefined list
 of actions to optimize your profiles:
 
-<img src="https://github.com/devscanr/resume-checklist/assets/todo-issue.png" style="max-widht: 700px"/>
+<img src="/assets/todo-issue.png" style="max-width: 700px"/>
 
 By completing these steps, you'll elevate yourself into the top 5% of job-seeker candidates. 
 Once you're done, recruiters will start approaching you, sparing you the effort 

@@ -1,3 +1,7 @@
+<p style="text-align: center">
+  <b>English</b>&nbsp;&nbsp;&nbsp;&nbsp;<a href="ru.md">Русский</a>
+</p>
+
 # Checklists for IT job seekers: resumes and social profiles
 
 *Aligned with the reality of the IT labor market in 2025.*
@@ -8,7 +12,7 @@ Below, you'll find a guidance on how to structure your resume and optimize your 
 By following these simple steps, your profiles and resumes will make a much stronger impression on recruiters and employers. 
 To put this insights into practice, fork this repository and create a TODO issue with a predefined list of actions:
 
-<img src="/assets/todo-issue.png" style="max-width: 640px"/>
+<img src="assets/todo.gif" width="640px"/>
 
 ## List of Content
 

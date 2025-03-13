@@ -1,15 +1,13 @@
 # Checklists for job seekers: resumes and social profiles
 
-_Aligned with the realities of the 2025 IT labor market._
+*Aligned with the reality of the IT labor market in 2025.*
 
 As engineers speaking to fellow engineers, our goal isn't just to tell you what to do —
 it's to explain why certain actions matter when crafting your CV and preparing for a job search.
 Below, you'll find a guidance on how to structure your resume and optimize your profiles
 on career and professional networks such as LinkedIn and GitHub.
 
-Don’t stop after reading — put these insights into practice.
-
-Clone this repository and create a TODO issue with a predefined list
+Don’t stop after reading — put these insights into practice. Fork this repository and create a TODO issue with a predefined list
 of actions to optimize your profiles:
 
 <img src="/assets/todo-issue.png" style="max-width: 700px"/>

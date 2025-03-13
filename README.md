@@ -27,7 +27,7 @@ To put this insights into practice, fork this repository and create a TODO issue
 General recommendations for resumes and professional network profiles.
 
 It's critical to understand the role of ATS in the job search.
-If you never heart about what is ATS, read this [short note](#7-terms)
+If you never heard about "ATS", read this [short note](#7-terms)
 
 ### 1️⃣ Contact Information
 
@@ -404,11 +404,11 @@ If your resume can't be parsed or fails to meet filter criteria, it’s automati
 **SEO** (Search Engine Optimization) is about helping search engines understand sites' content,
 and as result helping users find releval information.
 
+---
 
-<hr/>
+Now that you understand why and how to update your resume and social accounts, we've prepared an actionable TODO list for you. 
+Fork this repository, create a TODO issue from the provided template, and begin optimizing your profiles right away!
 
+## License
 
-Now that you understand why and how to update your resume and social accounts,
-we've prepared an actionable TODO list for you. 
-Clone this repository, create a TODO issue from the provided template, 
-and begin optimizing your profiles right away!
+**CC0 1.0 Universal: public domain.** You can distribute, remix, adapt, and build upon the material in any medium or format, with no conditions. Attributions are always appreciated but not required.

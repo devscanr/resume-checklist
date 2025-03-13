@@ -404,7 +404,7 @@ If your resume can't be parsed or fails to meet filter criteria, it’s automati
 **SEO** (Search Engine Optimization) is about helping search engines understand sites' content,
 and as result helping users find releval information.
 
----
+## Next steps
 
 Now that you understand why and how to update your resume and social accounts, we've prepared an actionable TODO list for you. 
 Fork this repository, create a TODO issue from the provided template, and begin optimizing your profiles right away!

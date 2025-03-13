@@ -5,11 +5,10 @@
 As engineers speaking to fellow engineers, our goal isn't just to show you the steps you can do. We'd like to explain WHY certain actions matter when crafting your CV and preparing for a job search.
 Below, you'll find a guidance on how to structure your resume and optimize your profiles on career and professional networks such as LinkedIn and GitHub.
 
-Don’t stop after reading — put these insights into practice. Fork this repository and create a TODO issue with a predefined list of actions to optimize your profiles:
+By following these simple steps, your profiles and resumes will make a much stronger impression on recruiters and employers. 
+To put this insights into practice, fork this repository and create a TODO issue with a predefined list of actions:
 
 <img src="/assets/todo-issue.png" style="max-width: 700px"/>
-
-By following these simple steps, your profiles and resumes will make a much stronger impression on recruiters and employers. 
 
 ## List of Content
 

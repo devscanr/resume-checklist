@@ -12,6 +12,7 @@ Below, you'll find a guidance on how to structure your resume and optimize your 
 By following these simple steps, your profiles and resumes will make a much stronger impression on recruiters and employers. 
 To put this insights into practice, fork this repository, 
 enable issues and create a TODO task with a predefined list of actions:
+
 <img src="assets/todo.gif" width="640px"/>
 
 ## List of Content

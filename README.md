@@ -151,15 +151,20 @@ The resume has a standard structure from which it is better not to deviate:
 - Education
 
 It is not recommended to exceed 1-2 pages for juniors and 2-3 pages for senior specialists. If it
-does not fit,
-try reducing the font size, for example, to 10-12 points. If it still does not fit, you need to cut
+does not fit, try reducing the font size, for example, to 10-12 points. If it still does not fit, you need to cut
 out the excess.
 
 _Corrections for students._
 Instead of `Work experience → Education`, change the structure to `Education → Projects`.
 For non-students, a list of projects is also acceptable, in certain cases.
 
-### 4️⃣ Other
+### 4️⃣ Portfolio / GitHub link
+
+In our view, each engineering resumes should contain a link to your portfolio and/or your GitHub (GitLab) professional account.
+NDA is not an argument, there're multiple ways to get around it (perfectly legal). If you have nothing to show: no screenshots, no contributions, 
+no public projects, no stars, nothing... why would anyone bother to talk to you about hiring you?!
+
+### 5️⃣ Other
 
 It is worth checking the resume with a PDF validator. The text should be proofread several times,
 it should not contain spelling errors. Knowledge of the language may be secondary... but errors
@@ -208,18 +213,16 @@ The text from the summary is used for cover letters (with modifications).
 ### 2️⃣ Work experience
 
 Indicate the names of companies, dates of work and positions. Up to the last three that are relevant
-to your desired job.
-Descriptions should be adequate to the position you are applying for and the level of expertise.
+to your desired job. Descriptions should be adequate to the position you are applying for and the level of expertise.
 Stick to the format `developed > details > effect`. Focus on results and achievements, not the
-process.
-But without exaggeration. A junior developer who "increased the company's revenue by 50%" will be
+process. But without exaggeration. A junior developer who "increased the company's revenue by 50%" will be
 perceived as 🤡.
 
 In the description of tasks and achievements, use active voice and past tense (increased, created,
-implemented).
-The years and months of work should be indicated. Specify the skills that were used in this
-position.
-For the last place, you can even indicate a contact person for communication (maximizing trust).
+implemented). The years and months of work should be indicated. Specify the skills that were used in this
+position. For the last place, you can even indicate a contact person for communication (maximizing trust).
+
+Pro tip: add industries of each company you worked in.
 
 ### 3️⃣ Education
 

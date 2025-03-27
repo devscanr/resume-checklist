@@ -2,9 +2,7 @@
   <b>English</b>&nbsp;&nbsp;&nbsp;&nbsp;<a href="ru.md">Русский</a>
 </p>
 
-# Checklists for IT job seekers: resumes and social profiles
-
-*Aligned with the reality of the IT labor market in 2025.*
+# Resume/profile checklists for IT specialists
 
 As engineers speaking to fellow engineers, our goal isn't just to show you the steps you can do. We'd like to explain which and why certain actions matter when crafting your resume and preparing for a job search. Below, you'll find a guidance on how to structure your resume and optimize your profiles on career and professional networks such as LinkedIn and GitHub. Immediate note: terms **Resume** and **CV** are interchangeable, but culturally specific. Use the one that is used and expected in your target area.
 

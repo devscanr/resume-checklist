@@ -4,14 +4,17 @@
 
 # Resume/profile checklists for IT specialists
 
-As engineers speaking to fellow engineers, our goal isn't just to show you the steps you can do. We'd like to explain which and why certain actions matter when crafting your resume and preparing for a job search. Below, you'll find a guidance on how to structure your resume and optimize your profiles on career and professional networks such as LinkedIn and GitHub. Immediate note: terms **Resume** and **CV** are interchangeable, but culturally specific. Use the one that is used and expected in your target area.
-
+Below, you'll find a guidance on how to structure your resume(s) and optimize your profiles on career/professional networks such as LinkedIn and GitHub.
+Immediate note: terms **Resume** and **CV** are interchangeable, but culturally specific. Use the one that is used and expected in your target area.
 By following these simple steps, your resume(s) and profiles will make a stronger impression on recruiters and hiring managers. 
+
+As engineers speaking to fellow engineers, our goal isn't just to show you the steps you can do. We'd like to explain which and why certain actions matter when crafting your resume and preparing for a job search.
+
 To put this insights into practice, fork this repository, enable issues and create a TODO task with a predefined list of actions:
 
 <img src="assets/todo.gif" width="640px"/>
 
-The provided information should be taken as a starting point. There're definitely many more culturally-specific, domain-specific, etc-specific points that were omitted for clarity. If you're interested in further recommendations or a professional resume review – ping us at info@devscanr.com. Most pro-tips are contextual and won't fit a general document. 
+The provided information should be taken as a starting point. There're definitely many more culturally-specific, domain-specific, etc-specific points that were omitted for clarity. If you're interested in further recommendations or a professional resume review – feel free to [ask the authors](mailto:info@devscanr.com). Most pro-tips are contextual and wouldn't fit a general document.  
 
 ## List of Content
 

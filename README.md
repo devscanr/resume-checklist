@@ -6,12 +6,14 @@
 
 *Aligned with the reality of the IT labor market in 2025.*
 
-As engineers speaking to fellow engineers, our goal isn't just to show you the steps you can do. We'd like to explain WHY certain actions matter when crafting your CV and preparing for a job search. Below, you'll find a guidance on how to structure your resume and optimize your profiles on career and professional networks such as LinkedIn and GitHub. Note: terms **Resume** and **CV** are interchangeable but culturally specific. Use the one that is expected in your target area.
+As engineers speaking to fellow engineers, our goal isn't just to show you the steps you can do. We'd like to explain which and why certain actions matter when crafting your resume and preparing for a job search. Below, you'll find a guidance on how to structure your resume and optimize your profiles on career and professional networks such as LinkedIn and GitHub. Immediate note: terms **Resume** and **CV** are interchangeable, but culturally specific. Use the one that is used and expected in your target area.
 
-By following these simple steps, your profiles and resumes will make a much stronger impression on recruiters and employers. 
+By following these simple steps, your resume(s) and profiles will make a stronger impression on recruiters and hiring managers. 
 To put this insights into practice, fork this repository, enable issues and create a TODO task with a predefined list of actions:
 
 <img src="assets/todo.gif" width="640px"/>
+
+The provided information should be taken as a starting point. There're definitely many more culturally-specific, domain-specific, etc-specific points that were omitted for clarity. If you're interested in further recommendations or a professional resume review – ping us at info@devscanr.com. Most pro-tips are contextual and won't fit a general document. 
 
 ## List of Content
 
@@ -34,29 +36,20 @@ If you never heard about "ATS", read this [short note](#7-vocabulary-)
 
 ### 1️⃣ Contact Information
 
-Ensure all relevant communication channels, including messengers, location details,
-and active professional profiles, are listed accurately. Verify that links are
-functional and up-to-date. We often hear stories of recruiters finding excellent
-candidates but failing to establish contact due to incomplete or inaccurate details.
-Providing valid contact information and using your real name boosts credibility.
-Be sure to omit unfinished personal websites, as they may detract from your overall
-professional impression.
+Ensure all contacts (links, usernames, etc) are listed accurately. Verify that links are
+functional and up-to-date. Recheck that your location is present and clear.
 
 ### 2️⃣ Avatar / Photo
 
-If you're actively seeking employment or open to opportunities, a photo works
-better than a creative avatar. Seeing someone fosters trust —
-a fundamental psychological principle. Note that in some countries,
-[laws may prohibit](https://resume.io/blog/picture-on-resume-or-not)
-requiring photos on resumes to prevent discrimination.
+A large topic on its own. [A photo in resume](https://resume.io/blog/picture-on-resume-or-not)
+might be legally required, prohibited, or none. Some companies might add more rules... it has to be researched.
 
-A strong photo can profoundly affect hiring outcomes, often more than applicants anticipate.
-Research shows that simply swapping a single photo can lead to drastically
-different responses to a resume.
+Talking about GitHub profiles – a photo works better than a creative avatar. It definitely looks more trustworthy
+to see a real face with a real name.
 
 Criteria for a good photo:
 
-- Face-focused portrait. The percentage of "creativity" should be related to your role in the team.
+- Face-focused portrait. The percentage of "creativity" should be aligned to your role.
 - Neutral background and attire.
 - Adequate quality: clear, well-exposed image.
 
@@ -70,8 +63,7 @@ How to take a quality photo at home:
 For best results, consider a professional photo shoot.
 
 One photo can be reused across various platforms. Opt for light, office-like, or urban backgrounds.
-Avoid scenic backdrops like waterfalls, as they might subconsciously irritate viewers
-who haven’t had a vacation in years!
+Avoid scenic backdrops like waterfalls, as they might *subconsciously* irritate viewers who haven’t had a vacation in years!
 
 ### 3️⃣ Full Name
 
@@ -124,8 +116,7 @@ Links to your social network profiles are not allowed (and, in some cases, stric
 
 The resume should be easily readable by a human and parsable by a robot.
 Use only PDF format (unless the job requirements specify otherwise).
-HTML and other formats will be a problem for ATS.
-Use a standard font of an adequate size (more below). The resume should look clean and readable.
+HTML and other formats will be a problem for ATS. Use a standard font of an adequate size (more below). The resume should look clean and readable.
 
 ### 3️⃣ Structure
 
@@ -168,20 +159,20 @@ your resume — this is always useful. Use spell check services.
 *Found a typo in this article? Let us know
 via [issues](https://github.com/devscanr/resume-checklist/issues)*.
 
-## Common CV Mistakes
+## Common Mistakes
 
-- Age is indicated.
-- Emojis are used in the text. Acceptable in certain cases.
-- CV in WORD or HTML format. See above.
-- Links like "Find out more here". ATS do not follow links.
-- Requirements for the presence/absence of photos are not met.
-- Copy protection is enabled in PDF (may interfere with ATS).
-- No headings. Creative headings or phrases.
-- Politics, religion, hobbies - anything that is not related to the job.
-- Too much information.
-- Soft skills are listed.
+Broadly speaking, as each point might have an exception:
 
-List your hobbies and interests in LinkedIn, GitHub. There should be no room for this in the CV.
+⚠️ Your age, marital status, etc. are indicated<br/>
+⚠️ Emojis or other images are used<br/>
+⚠️ Non-PDF format like WORD or HTML format is used<br/>
+⚠️ External links named "Find out more"<br/>
+⚠️ Copy protection is enabled in PDF (may interfere with ATS)<br/>
+⚠️ No headings, unfamiliar layour or section names<br/>
+⚠️ Politics, religion, unrelated hobbies<br/>
+⚠️ Too much or too little information
+
+List your hobbies and interests in LinkedIn, GitHub. There should be no room for this in a resume.
 Do not list your soft skills separately – it doesn't look good and trustworthy. Embed them in the **Summary** and/or in the **Work Experience** sections.
 
 ## 3. Resume under a microscope 🔬
@@ -192,16 +183,15 @@ A short, concise description of your experience, key skills, and achievements.
 It presents you as a specialist. Explains why extactly you should be hired.
 Maximum 3-4 sentences. For everything else, there are sections "Responsibilities" and "Achievements"
 at each place of work. You can write in the 3rd person (adds neutrality)
-or in the 1st person (adds individuality).
-This point may be regulated by law or company rules, double-check.
+or in the 1st person (adds individuality). This point may be regulated by law or company rules, double-check.
 On LinkedIn, it is better to write in the 1st person.
 
 What can/should be indicated:
 
-- Your general expertise, transferable skills.
-- Your strengths.
-- Skills in demand for the desired position.
-- Your preferences regarding the industry, company, team, project (of course, not all at once).
+- Your general expertise, transferable skills
+- Your strengths
+- Skills in demand for the desired position
+- Your preferences regarding the industry, company, team, project (of course, not all at once)
 
 [Examples for reference](https://resume.supply/examples/software-engineer-objectives-summaries).
 The text from the summary is used for cover letters (with modifications).
@@ -216,8 +206,6 @@ process. The numbers should match your scope of responsibilities. Junior develop
 In the description of tasks and achievements, use active voice and past tense (increased, created,
 implemented). The years and months of work should be indicated. Specify the skills that were used in this
 position. For the last place, you can even indicate a contact person for communication (maximizing trust).
-
-Pro tip: add industries of each company you worked in.
 
 ### 3️⃣ Education
 

@@ -6,12 +6,10 @@
 
 *Aligned with the reality of the IT labor market in 2025.*
 
-As engineers speaking to fellow engineers, our goal isn't just to show you the steps you can do. We'd like to explain WHY certain actions matter when crafting your CV and preparing for a job search.
-Below, you'll find a guidance on how to structure your resume and optimize your profiles on career and professional networks such as LinkedIn and GitHub.
+As engineers speaking to fellow engineers, our goal isn't just to show you the steps you can do. We'd like to explain WHY certain actions matter when crafting your CV and preparing for a job search. Below, you'll find a guidance on how to structure your resume and optimize your profiles on career and professional networks such as LinkedIn and GitHub. Note: terms **Resume** and **CV** are interchangeable but culturally specific. Use the one that is expected in your target area.
 
 By following these simple steps, your profiles and resumes will make a much stronger impression on recruiters and employers. 
-To put this insights into practice, fork this repository, 
-enable issues and create a TODO task with a predefined list of actions:
+To put this insights into practice, fork this repository, enable issues and create a TODO task with a predefined list of actions:
 
 <img src="assets/todo.gif" width="640px"/>
 
@@ -79,8 +77,7 @@ who haven’t had a vacation in years!
 
 Synchronize how your name appears across LinkedIn, GitHub, and your resume. Recruiters shouldn't
 have to guess if different accounts belong to the same person, especially if you've changed your
-surname.
-Transliteration between profiles should remain consistent.
+surname. For applicants with foreign (non-english) names: transliteration between profiles should remain consistent.
 
 ### 4️⃣ Title / Specialty / Desired Position
 
@@ -90,18 +87,14 @@ This field is crucial for talent searches and filtering within [ATS systems](#7-
 
 A common mistake is spending mere minutes on crafting a title, assuming it's self-evident. However,
 this field deserves careful consideration. Your title should reflect your desired rather than
-current
-role/specialization. Use popular, widely recognized job titles. Phrases like "Backend Ninja" may
-make
-sense to humans but will negatively impact search rankings because text-based searches
-prioritize exact matches.
-As a result, your resume could go unnoticed.
+current role/specialization. Use popular, widely recognized job titles. Phrases like "Backend Ninja" may
+make sense to humans but will negatively impact search rankings because text-based searches
+prioritize exact matches. As a result, your resume could go unnoticed.
 
 When working on title, we recommend using a [SEO](#7-vocabulary-) approach. Search engine guidelines
-for a title typically recommend staying within 50–80 characters.
-The beginning of the line carries the most weight.
-Keep in mind that you don't know where your title might get truncated or shortened in an ATS,
-so ensure it looks good at varying lengths. We suggest choosing one of these formats:
+for a title typically recommend staying within 50–80 characters. The beginning of the line carries the most weight. 
+Keep in mind that you don't know where your title might get truncated or shortened in an ATS, so ensure it looks good 
+at varying lengths. We suggest choosing one of these formats:
 
 ```
 1) [Desired Position Title] | [Narrowing Hard Skill(s)]
@@ -123,7 +116,9 @@ Senior Frontend Developer | Delivering Pixel-Perfect, Responsive Solutions
 
 ### 1️⃣ Contact information. Full name. Photo.
 
-Follow the guidens from the [General checklist](#1-general-checklist-) section.
+Follow the guides from the [General checklist](#1-general-checklist-) section.
+Professional networks like LinkedIn and GitHub are acceptable (and desired).
+Links to your social network profiles are not allowed (and, in some cases, strictly forbidden).
 
 ### 2️⃣ Readability
 
@@ -144,10 +139,9 @@ The resume has a standard structure from which it is better not to deviate:
 - Brief description / summary
 - Technical stack, up to 7 main technologies
 - Work experience
-- Work permits – depending on the situation
-- Readiness for relocation – optional
-- Knowledge of languages ​​– depending on the situation
-- List of main hard and soft skills
+- Work permits – situational
+- Readiness for relocation – situational
+- Knowledge of languages ​​– situational
 - Education
 
 It is not recommended to exceed 1-2 pages for juniors and 2-3 pages for senior specialists. If it
@@ -161,8 +155,8 @@ For non-students, a list of projects is also acceptable, in certain cases.
 ### 4️⃣ Portfolio / GitHub link
 
 In our view, each engineering resumes should contain a link to your portfolio and/or your GitHub (GitLab) professional account.
-NDA is not an argument, there're multiple ways to get around it (perfectly legal). If you have nothing to show: no screenshots, no contributions, 
-no public projects, no stars, nothing... why would anyone bother to talk to you about hiring you?!
+NDA is not an argument, there're multiple ways to get around it (legally). If you have nothing to show: no screenshots, no contributions, 
+no public projects, no stars, nothing... – it's super bad and must be fixed.
 
 ### 5️⃣ Other
 
@@ -177,7 +171,7 @@ via [issues](https://github.com/devscanr/resume-checklist/issues)*.
 ## Common CV Mistakes
 
 - Age is indicated.
-- Emoji are used in the text. Acceptable in certain cases.
+- Emojis are used in the text. Acceptable in certain cases.
 - CV in WORD or HTML format. See above.
 - Links like "Find out more here". ATS do not follow links.
 - Requirements for the presence/absence of photos are not met.
@@ -185,8 +179,10 @@ via [issues](https://github.com/devscanr/resume-checklist/issues)*.
 - No headings. Creative headings or phrases.
 - Politics, religion, hobbies - anything that is not related to the job.
 - Too much information.
+- Soft skills are listed.
 
 List your hobbies and interests in LinkedIn, GitHub. There should be no room for this in the CV.
+Do not list your soft skills separately – it doesn't look good and trustworthy. Embed them in the **Summary** and/or in the **Work Experience** sections.
 
 ## 3. Resume under a microscope 🔬
 
@@ -215,8 +211,7 @@ The text from the summary is used for cover letters (with modifications).
 Indicate the names of companies, dates of work and positions. Up to the last three that are relevant
 to your desired job. Descriptions should be adequate to the position you are applying for and the level of expertise.
 Stick to the format `developed > details > effect`. Focus on results and achievements, not the
-process. But without exaggeration. A junior developer who "increased the company's revenue by 50%" will be
-perceived as 🤡.
+process. The numbers should match your scope of responsibilities. Junior developers writing about "increased business income by..." raise a lot of questions. 
 
 In the description of tasks and achievements, use active voice and past tense (increased, created,
 implemented). The years and months of work should be indicated. Specify the skills that were used in this
@@ -242,39 +237,12 @@ candidate.
 
 ### 5️⃣ Font
 
-Select a standard font that is compatible with ATS. Ensure the font size falls within 
-an acceptable range of 10-16px. For resumes in the IT sector, consider opting for sans-serif fonts, 
-as they tend to appear neater and more modern.
-
-Recommended sans serif fonts:
-- Arial (maximum readability, neutral, technological)
-- Calibri (more user-friendly, readable in small sizes)
-- Trebuchet (even more user-friendly, informal)
-
-Recommended serif fonts. For headings or body text, if you want to look formal/conservative:
-- Cambria (formal, modern)
-- Georgia (slightly more decorative)
-
-Recommended monospace fonts. Optional for technology list:
-- Courier
-
-When using multiple fonts, ensure they complement each other visually, but this is a nuanced matter. 
-Essentially, the letter widths should align as much as possible when overlaid at the same visual size. 
-If you aim to achieve this, try utilizing a 
-[font comparison service](http://www.identifont.com/differences?first=Trebuchet&second=Calibri) for assistance.
-
-Most applicants are better off sticking to 1 font and creating hierarchy solely by size and weight
-(boldness) of the font.
+Select a standard font (Arial, Georgia, etc), to ensure your resume is displayed properly in all ATS. 
+Recheck that the font size falls within an acceptable range of 10-16px. Use a single font, unless you know what you're doing.
 
 ## 6️⃣ How many resumes to create
 
-Create one basic resume that reflects your experience and key competencies. Then, if you are
-applying for several similar positions or the industry has established different terms for the same
-thing, create
-1-2 resume variations with adjustments and accents. Don't spread yourself too thin - one good resume
-works better than several mediocre ones. Your resume will be compared with your public profiles.
-If recruiters find contradictions, you have done yourself a disservice by following the
-recommendations to create a "unique resume for each vacancy."
+Short answer: one master resume plus per-role variations.
 
 ## 4. LinkedIn profile checklist ✔
  

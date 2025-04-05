@@ -63,9 +63,6 @@ How to take a quality photo at home:
 
 For best results, consider a professional photo shoot.
 
-One photo can be reused across various platforms. Opt for light, office-like, or urban backgrounds.
-Avoid scenic backdrops like waterfalls, as they might *subconsciously* irritate viewers who haven’t had a vacation in years!
-
 ### 3️⃣ Full Name
 
 Synchronize how your name appears across LinkedIn, GitHub, and your resume. Recruiters shouldn't
